@@ -1,13 +1,13 @@
 ### 👋  Hi there! 
 
 
-- 👵 I'm [lead front-end engineer](https://www.linkedin.com/in/jenniferproust/), currently working at [Instapro Group](https://careers.instapro.group/) and we often look for new colleagues :) 
-- 👩‍💻 I'm currently working with React (TypeScript or Javascript).
+- 👵 I'm [lead front-end engineer](https://www.linkedin.com/in/proustibat/)
+- 👩‍💻 I'm currently working with React (TypeScript or Javascript), with NextJS, sometimes with React Native and Ionic.
 - 🧐 I'm interested in IOT: I've recently written feedback about [beacons experience](https://medium.com/xebia-france/iot-molkky-beacons-ble-node-104217633109) and have created an [app](https://www.heart-rate-tracker.app/) to use Bluetooth Web API.
 - ✍️ I try to write articles on [Medium](https://medium.com/@proustibat).
 - 🐦 I [tweet](https://twitter.com/proustibat) about tech but also about other stuff I found interesting and that you may not find interesting
 - 🗣 I work on my skills as a [speaker](https://www.youtube.com/watch?v=VKxxyyLnkeY) at conferences.
-- 🇫🇷 I've been living in [Paris](https://goo.gl/maps/quHaGj15ju2nEHma9), France for more than 15 years
+- 🇫🇷 I've been living in [Paris](https://goo.gl/maps/quHaGj15ju2nEHma9), France for many years.
 - 🌈 Pronouns: He/Her
 
 <!--
