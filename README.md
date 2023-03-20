@@ -10,8 +10,7 @@
 - 🇫🇷 I've been living in [Paris](https://goo.gl/maps/quHaGj15ju2nEHma9), France for many years.
 - 🌈 Pronouns: He/Her
 
-
-<img height="180em" width="100%" src="[https://github-readme-stats.vercel.app/api?username=proustibat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=proustibat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
