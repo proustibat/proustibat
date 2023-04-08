@@ -6,7 +6,6 @@
 - 🧐 I'm interested in IOT: I've recently written feedback about [beacons experience](https://medium.com/xebia-france/iot-molkky-beacons-ble-node-104217633109).
 - 🗣 I work on my skills as a [speaker](https://www.youtube.com/watch?v=VKxxyyLnkeY) at conferences.
 - 🇫🇷 I've been living in [Paris](https://goo.gl/maps/quHaGj15ju2nEHma9), France for many years.
-- 🌈 Pronouns: He/Her
 
 ### My profiles
 
