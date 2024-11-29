@@ -17,10 +17,10 @@
 ### My skills and my environment
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp; ![Typescript](https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp; ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=cyan)
-&nbsp; ![React Router](https://img.shields.io/badge/React%20Router-333333?style=for-the-badge&logo=reactrouter&logoColor=cyan)
 &nbsp; ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
 &nbsp; ![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-18B3C1?style=for-the-badge&logo=tailwindcss&logoColor=white)
 &nbsp; ![CHAKRA UI](https://img.shields.io/badge/Chakra%20UI-efefef?style=for-the-badge&logo=chakraui&logoColor=29B4AA)
@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Published npm packages
+- [svg-loader-es6](https://www.npmjs.com/package/svg-loader-es6)
+- [occurences](https://www.npmjs.com/package/occurences)
+- [ion-prism](https://www.npmjs.com/package/ion-prism)
+  
+
