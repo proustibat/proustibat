@@ -7,12 +7,8 @@
 - 🗣 I work on my skills as a [speaker](https://www.youtube.com/watch?v=VKxxyyLnkeY) at conferences.
 - 🇫🇷 I've been living in [Paris](https://goo.gl/maps/quHaGj15ju2nEHma9), France for many years.
 
-### My profiles
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/prstbt-linkedin)
-&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/prstbt-tw)
-&nbsp; [![Medium](https://img.shields.io/badge/Medium-efefef?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@proustibat)
-&nbsp; [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-efefef?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://bit.ly/prstbt-so)
+|[![Proustibat's GitHub stats](https://github-readme-stats.vercel.app/api?username=proustibat&hide_progress=true&include_all_commits=true&hide_rank=true&theme=codeSTACKr&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/proustibat/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proustibat&theme=codeSTACKr&layout=pie)](https://github.com/proustibat/github-readme-stats) |
+|-|-|
 
 ### My skills and my environment
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
@@ -31,25 +27,17 @@
 &nbsp; ![TESTING LIBRARY](https://img.shields.io/badge/Testing%20Library-efefef?style=for-the-badge&logo=testinglibrary&logoColor=EB4346)
 &nbsp; ![JEST](https://img.shields.io/badge/Jest-efefef?style=for-the-badge&logo=jest&logoColor=7F3652)
 
-
-<!--
-**proustibat/proustibat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Published npm packages
 - [svg-loader-es6](https://www.npmjs.com/package/svg-loader-es6)
 - [occurences](https://www.npmjs.com/package/occurences)
 - [ion-prism](https://www.npmjs.com/package/ion-prism)
+
+
+### Get in touch
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/prstbt-linkedin)
+&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/prstbt-tw)
+&nbsp; [![Medium](https://img.shields.io/badge/Medium-efefef?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@proustibat)
+&nbsp; [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-efefef?style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://bit.ly/prstbt-so)
   
 
