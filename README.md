@@ -52,6 +52,9 @@
 &nbsp; [![OCCURENCES](https://img.shields.io/badge/occurences-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/occurences)
 &nbsp; [![ION PRISM](https://img.shields.io/badge/ion_prism-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ion-prism)
 
+### Contributions
+![Proustibat's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=proustibat&hide_contributor_rank=false&combine_all_yearly_contributions=true&limit=7)
+
 ### Stackoverflow
 <a href="https://stackoverflow.com/users/3075243/proustibat"><img src="https://stackexchange.com/users/flair/3693116.png" width="208" height="58" alt="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
