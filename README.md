@@ -15,7 +15,8 @@
 &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp; ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 &nbsp; ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-&nbsp; ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+
+![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 &nbsp; ![VITE](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 &nbsp; ![BABEL](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 &nbsp; ![STORYBOOK](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -51,6 +52,10 @@
 &nbsp; [![OCCURENCES](https://img.shields.io/badge/occurences-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/occurences)
 &nbsp; [![ION PRISM](https://img.shields.io/badge/ion_prism-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ion-prism)
 
+### Stackoverflow
+<a href="https://stackexchange.com/users/3693116/proustibat"><img src="https://stackexchange.com/users/flair/3693116.png" width="208" height="58" alt="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+### Github Stats
 |[![Proustibat's GitHub stats](https://github-readme-stats.vercel.app/api?username=proustibat&hide_progress=true&include_all_commits=true&hide_rank=true&theme=codeSTACKr&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/proustibat/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proustibat&theme=codeSTACKr&layout=pie)](https://github.com/proustibat/github-readme-stats) |
 |-|-|
 
