@@ -53,7 +53,7 @@
 &nbsp; [![ION PRISM](https://img.shields.io/badge/ion_prism-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ion-prism)
 
 ### Stackoverflow
-<a href="https://stackexchange.com/users/3693116/proustibat"><img src="https://stackexchange.com/users/flair/3693116.png" width="208" height="58" alt="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/3075243/proustibat"><img src="https://stackexchange.com/users/flair/3693116.png" width="208" height="58" alt="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Proustibat on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ### Github Stats
 |[![Proustibat's GitHub stats](https://github-readme-stats.vercel.app/api?username=proustibat&hide_progress=true&include_all_commits=true&hide_rank=true&theme=codeSTACKr&show_icons=true&show=prs_merged,prs_merged_percentage)](https://github.com/proustibat/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proustibat&theme=codeSTACKr&layout=pie)](https://github.com/proustibat/github-readme-stats) |
